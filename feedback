@@ -2,32 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>О нас</title>
-    <a href="index.html">Главная</a>
-    <p>На нашем сайте вы можете посмотреть книги на продажу</p>
-    <p>Вы можете оставить отзыв о нашем сайте.</p>
-    <form>
-        <legend>Форма отправки отзыва</legend>
-        <input type="text" name="nickname" placeholder="Your name">
-        <textarea placeholder="Ваш отзыв"></textarea>
-        <input type="submit">
-    </form>
-</head>
-<body>
-
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
     <title>Магазин</title>
 </head>
 <body>
     <h1>Добро пожаловать в магазин книг!</h1>
-    <a href="catalog.html">Каталог</a> <a href="about.html">О нас</a>
-    <p>На нашем сайте вы можете посмотреть книги на продажу</p>
+    <a href="catalog.html">Каталог</a> <a href="map.html">О нас</a>
 </body>
 </html>
