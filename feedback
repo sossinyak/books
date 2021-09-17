@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>О нас</title>
+    <a href="index.html">Главная</a>
+    <p>На нашем сайте вы можете посмотреть книги на продажу</p>
+    <p>Вы можете оставить отзыв о нашем сайте.</p>
+    <form>
+        <legend>Форма отправки отзыва</legend>
+        <input type="text" name="nickname" placeholder="Your name">
+        <textarea placeholder="Ваш отзыв"></textarea>
+        <input type="submit">
+    </form>
+</head>
+<body>
+
+</body>
+</html>
